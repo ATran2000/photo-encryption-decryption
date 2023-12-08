@@ -6,5 +6,8 @@ About:
 - This program will take three command line arguments: the input-file.png, the output-file.png, and the 16-bit seed “1011011000110110” and when ran, two display windows will pop up that displays the input-file image before and after going through the transform function. The image after will be put into the output-file.png file and the 16-bit seed is used to create a FibLFSR object for the transform function. 
 - An example encryption image is provided in the repository. The input-file.png file is the image before encryption and the output-file.png file is the image after encryption.
 
+For a visual representation of what happens in the program, check it out on my portfolio website! <br>
+Link to the website: [`https://avtran-portfolio.vercel.app/projects/photoencryptiondecryption`](https://avtran-portfolio.vercel.app/projects/photoencryptiondecryption)
+
 Note:
 - I ran and executed the code on my Linux environment in a virtual machine. To run the code in VS Code, you would need to go through some tutorials online to set up C++ for VS Code because C++ is a compiled language. 
